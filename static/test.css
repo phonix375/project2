@@ -1,0 +1,18 @@
+html, body {width: 100vw;height: 100vh;}
+.my-second-row {
+  height: 90vh;
+}
+.my-rooms{
+}
+.my-chat {
+}
+
+.chat-window {
+  border: 1px solid black;
+}
+.test1 {
+  height: 86vh;
+}
+#vanish {
+  display: block;
+}

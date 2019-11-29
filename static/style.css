@@ -1,0 +1,30 @@
+
+html, body {width: 100vw;height: 100vh;}
+.my-second-row {
+  height: 90vh;
+}
+
+.chat-window {
+  border: 1px solid black;
+}
+.test1 {
+  height: 86vh;
+}
+#chat {
+  display: none;
+}
+#user_select {
+  display: block;
+}
+.roomB {
+  background-color: #f2f5f3;
+  border: 1px solid black;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 100%;
+}
+#add_room {
+  margin:5px;
+}
